@@ -1,6 +1,6 @@
 this is the second file.
 added a lines in second.
-added 3rd line in master, by kumar.
+added 3rd line by kumar akarsh.
 this is the fourth line.
-added line 5 in master.
+added line 5 in merged.
 final line.

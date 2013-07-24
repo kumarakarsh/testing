@@ -1,0 +1,12 @@
+this is the second file.
+added a lines in second.
+<<<<<<< HEAD
+added 3rd line in master, by kumar.
+this is the fourth line.
+added line 5 in master.
+=======
+added 3rd line in second, by akarsh.
+this is the fourth line.
+added line 5 in branch.
+>>>>>>> second
+final line.
